@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackieallam, a Junior Python/JavaScript Developer
+- 👋 Hi, I’m @jackieallam
 - 👀 I’m interested in blockchain technologies
 - 🌱 I’m currently learning to write smart contracts with Solidity and JavaScript
 - 💞️ I’m looking to get hired as a Junior Developer
